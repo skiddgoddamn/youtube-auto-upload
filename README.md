@@ -2,6 +2,7 @@
 
 
 1. **Подготовка** 
+- Скопируй репозиторий ```git clone https://github.com/skiddgoddamn/youtube-auto-upload```
 - Установи зависимости ```pip install requirements.txt```
 - В папку videos закинь видео которые требуется загрузить на YT
 - Открой Chrome и залогинься в YT канал в который будут загружаться видео
